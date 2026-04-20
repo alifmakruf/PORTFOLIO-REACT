@@ -98,7 +98,7 @@ function App() {
                 <div className="contact-grid">
                   <div>
                     <strong>Email</strong>
-                    <p>team@example.com</p>
+                    <p>firmanalief098@gmail.com</p>
                   </div>
                   <div>
                     <strong>WhatsApp</strong>
